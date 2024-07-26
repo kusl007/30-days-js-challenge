@@ -14,7 +14,7 @@ class Person {
     // Task 2
     updateAge(newAge) {
         if (newAge <= 0 || newAge < this.age){
-            console.error("new age should be correct")
+            console.error("add a correct new age")
             return
         }
         this.age = newAge
