@@ -50,7 +50,7 @@ const captureUsernameAndDomain = (str) => {
     const match = str.match(regex);
     return match ? match.slice(1) : [];
 }
-console.log(captureUsernameAndDomain("My email id is: beleanirudha8@gmail.com"));
+console.log(captureUsernameAndDomain("My email id is: kushal.bansal.1001@gmail.com"));
 
 // ============= Activity 4 : Assertions and Boundaries ============= //
 
@@ -78,7 +78,7 @@ const validatePassword = (pwd) => {
     const match = pwd.match(regex);
     return match;
 }
-console.log(validatePassword("AnirudhaBele@3710"));
+console.log(validatePassword("KushalBansal@1001"));
 
 // --> task - 10 < -- //
 const validateURL = (url) => {
