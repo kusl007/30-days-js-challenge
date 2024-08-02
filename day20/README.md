@@ -1,6 +1,8 @@
 
 Day 20: LocalStorage and SessionStorage
+
 Tasks / Activities
+
 Activity 1: Understanding LocalStorage
 Task 1: Write a script to save a string value to localStorage and retrieve it. Log the retrieved value.
 
