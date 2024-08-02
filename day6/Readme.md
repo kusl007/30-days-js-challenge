@@ -3,6 +3,9 @@
   <h1>Day 6: Arrays</h1>
 </div>
 
+<!-- tasks -->
+
+
 ---
 
 ## Tasks/Activities
