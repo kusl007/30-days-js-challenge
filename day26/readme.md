@@ -5,5 +5,3 @@
 ---
 
 ## Tasks / Activities
-
- 
